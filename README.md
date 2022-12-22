@@ -1,4 +1,4 @@
-# todo-and-task-manager
+# todo and task manager
 ## personal web app to smoothen my daily workflow
 #### Created using
 -  Node.Js
@@ -20,6 +20,7 @@
 npm install
 ```
 ### Required libraries
+
 >express
 >ejs
 >body-parser
